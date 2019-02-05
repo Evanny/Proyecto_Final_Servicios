@@ -1,0 +1,14 @@
+Escuela Politecnica Nacional
+
+Análisis de Sistemas Informáticos 
+
+Servicios sobre redes.
+
+Enlace de youtube donde se muestra el video con las propuestas de solución
+de comunicaciones.
+
+En donde se detalla las caracteristicas del problema de la empresa que requiere
+la solución de comunicaciones, la propuesta de código abierto, la propuesta 
+licenciada y conclusiones.
+
+link de video de propuestas: https://youtu.be/0h1t6ij_y2U
